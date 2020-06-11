@@ -34,8 +34,8 @@ social:
   email: valdineifer.dev@outlook.com    # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/_valdineifer
     - https://github.com/valdineifer
+    - https://twitter.com/_valdineifer
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/valdineifer

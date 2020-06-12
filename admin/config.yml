@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: valdineifer/valdineifer.github.io # Path to your GitHub repository
 
 # This line should *not* be indented
 publish_mode: editorial_workflow
@@ -22,7 +22,3 @@ collections:
       - {label: "Categorias", name: "categories", widget: "list"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Corpo", name: "body", widget: "markdown"}
-
-backend:
-  name: github
-  repo: valdineifer/valdineifer.github.io # Path to your GitHub repository

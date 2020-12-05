@@ -2,7 +2,7 @@
 title: Migrando (fazendo clone) do HD para o SSD (e erro 0xc0000225)
 author: Valdinei Ferreira
 date: 2020-12-05T19:13:54.124Z
-lastmod: 2020-12-05T19:13:54.146Z
+lastmod: 2020-12-05T20:13:59.693Z
 categories:
   - Tutorial
 tags:

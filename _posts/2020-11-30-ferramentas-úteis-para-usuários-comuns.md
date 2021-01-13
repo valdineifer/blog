@@ -2,7 +2,7 @@
 title: Ferramentas úteis para usuários comuns
 author: Valdinei Ferreira
 date: 2021-01-13T03:57:54.030Z
-lastmod: 2021-01-13T03:57:55.323Z
+lastmod: 2021-01-13T03:59:20.264Z
 categories:
   - Dicas
   - Software

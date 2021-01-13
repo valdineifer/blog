@@ -20,11 +20,16 @@ Depois de adquirir o Kindle, pensei: "hm, e se eu fizesse um app que mandava art
 Ele possui planos gratuitos e pagos. Mesmo no plano gratuito, você consegue programar entregas de artigos salvos no [Pocket](https://getpocket.com).
 # 2. Canais/Grupos Telegram
 Depois da mudança da política de privacidade do WhatsApp, acredito que saiba o que é o Telegram, pelo menos. Então vou citar alguns grupos e canais que acho bem úteis:
-- [@RastreioBot](https://t.me/RastreioBot)
+- [@RastreioBot](https://t.me/RastreioBot): Um bot para rastreio de encomendas via Correios. Ele te notifica quando houver atualização;
+- [@iLyricsBot](https://t.me/iLyricsBot): Um bot para pesquisar letras de músicas;
+- [@Stickers](https://t.me/Stickers): Bot para criar pacotes de stickers no Telegram;
+- [@mokubot](https://t.me/mokubot): Um bot que faz um MONTE de coisas: pesquisa na Wikipedia, diz a cor referente a um código hexadecimal, pesquisa na Bíblia, tem calculadora, etc.;
+- [@pelandobr](https://t.me/pelandobr): Canal do Pelando, que lista as principais promoções submetidas por usuários da plataforma deles;
+- [@grupos_ti](https://t.me/grupos_ti): Um agregador de canais e grupos ligados à tecnologia da informação;
 # 3. [Emby](https://emby.media) / [Plex](https://www.plex.tv)
 Dois apps de gerenciamento de mídia, no qual podem transformar seu computador em um servidor para armazenar sua mídia e poder assistir na TV (ou outro dispositivo com app disponível), como um serviço de streaming. Você consegue até configurar download automático de legendas.
 # 4. [Calibre](https://calibre-ebook.com)
-Com este programa, você consegue editar os metadados (autor,  de e-books
+Com este programa, você consegue editar capa e metadados de e-books, agendar download de notícias e muitas outras coisas.
 # 5. [TimeCamp](https://www.timecamp.com)
 Utilizo ele para administrar meu tempo de trabalho. Você pode utilizar ele gratuitamente, mas sem recursos avançados (como equipes e tals). Recomendo demais. Acho que foi o único que encontrei gratuitamente e ainda funciona muito bem.
 # 6. [Bitwarden](https://bitwarden.com)
@@ -33,7 +38,7 @@ Gerenciador de senhas! Todo mundo deveria usar um gerenciador de senhas! Eu já 
 Autenticador de duas etapas. Simples. Caso alguém descubra sua senha de algum modo, a pessoa ainda precisará de um código gerado por este aplicativo (claro que você terá de configurar).
 Acho ele o melhor pois eu consigo usar no PC, pois nem sempre estou com o celular em mãos e corro menos riscos de perder acesso a contas se eu perder o celular (como parece que ocorre com o Google Authenticator).
 # 8. [Firefox Monitor](https://monitor.firefox.com)
-Um serviço feito pela Mozilla (como a marca Firefox sugere) para avisar ao usuário quando ocorrer vazamento de dados. Você pode cadastrar seu(s) e-mail(s) para receber alertas.
+Um serviço feito pela Mozilla (como a marca Firefox sugere) para avisar ao usuário quando ocorrer vazamento de dados. Você pode cadastrar seu(s) e-mail(s) para receber alertas de vazamentos.
 # 9. [LibreOffice](https://pt-br.libreoffice.org)
 Sim, eu utilizo essa alternativa ao Microsoft Office. Às vezes, deixo de usar o Google Docs (que até que é bom) por conta de algumas formatações. Da última vez, tive problemas com o modelo de artigo da IEEE no Google Docs. Já no LibreOffice, consegui formatar normalmente. Ele é mais completinho, o Google Docs é mais intuitivo.
 # 10. [Habitica](https://habitica.com)
